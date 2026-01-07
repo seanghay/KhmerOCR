@@ -30,7 +30,7 @@ python recognize.py image.jpg
 
 **Input Image**
 
-<img src=image.jpg >
+<img src=image2.jpg >
 
 
 **Output**
