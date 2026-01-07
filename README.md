@@ -79,3 +79,9 @@ SOFTWARE.
 Email: seanghay.dev@gmail.com
 
 Telegram: [@seanghay_yath](https://t.me/seanghay_yath)
+
+---
+
+<a href="https://khmerscan.com/"><img width=56 src="https://khmerscan.com/favicon.svg" alt=""></a>
+
+Sponsored by [KhmerScan](https://khmerscan.com/) (បម្លែងរូបភាពទៅជាអត្ថបទខ្មែរ)
