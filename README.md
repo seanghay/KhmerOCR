@@ -73,3 +73,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+### Contact for work
+
+Email: seanghay.dev@gmail.com
+
+Telegram: [@seanghay_yath](https://t.me/seanghay_yath)
