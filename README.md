@@ -22,8 +22,13 @@ python recognize.py image.jpg
 
 **Output**
 
-```
-យេម៉ែនលង់ក្នុងសង្គ្រាមតាំងពីពួកឧទ្ទាមហ៊ូទីគាំទ្រដោយអ៊ីរ៉ង់ចូលគ្រប់គ្រងរដ្ឋធានីសាណានិងដែនដីមួយភាគធំទៀតនៅឆ្នាំ២០១៤។មួយឆ្នាំ
+```json
+{
+  "text": "យេម៉ែនលង់ក្នុងសង្គ្រាមតាំងពីពួកឧទ្ទាមហ៊ូទីគាំទ្រដោយអ៊ីរ៉ង់ចូលគ្រប់គ្រងរដ្ឋធានីសាណានិងដែនដីមួយភាគធំទៀតនៅឆ្នាំ២០១៤។មួយឆ្នាំ",
+  "text_confidence": 0.9797575010741053,
+  "font": "Bold",
+  "font_confidence": 0.6591917872428894,
+}
 ```
 
 ---
@@ -35,11 +40,31 @@ python recognize.py image.jpg
 
 **Output**
 
-```
-ក្រសួងមហាផ្ទៃឱ្យត្រៀមជម្លេរសពលរដ្ឋខ្មែរនៅថៃវិលមកស្រុកវិញបើមានការប៉ះទដ្គិចគ្នា
+```json
+{
+  "text": "ក្រសួងមហាផ្ទៃឱ្យត្រៀមជម្លេរសពលរដ្ឋខ្មែរនៅថៃវិលមកស្រុកវិញបើមានការប៉ះទដ្គិចគ្នា",
+  "text_confidence": 0.958959947158764,
+  "font": "Bold",
+  "font_confidence": 0.9998669624328613,
+}
 ```
 
 ---
+
+**Input Image**
+
+<img src=image3.jpg >
+
+**Output**
+
+```json
+{
+  "text": "លទ្ធផលនៃការធ្វើកំណែទប្រង់លើទូរគមនាគមន៍កម្ពុជា",
+  "text_confidence": 0.9804698891109891,
+  "font": "Moul",
+  "font_confidence": 0.9999722242355347,
+}
+```
 
 ### Milestones
 
@@ -47,6 +72,7 @@ python recognize.py image.jpg
 - [ ] Add Text Detection
 - [ ] Add ONNXRuntime
 - [ ] Add C/C++ Inference Engine
+- [x] Basic Font Style Detection
 
 ### License
 
